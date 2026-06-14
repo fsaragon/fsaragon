@@ -6,12 +6,6 @@ I am completing my Associate of Arts degree at Tallahassee State College in Augu
 
 I build hands-on IT skills through home lab projects and industry certifications as I prepare for a career in IT and cybersecurity.
 
-## 🎓 Education
-
-**Tallahassee State College** - Associate of Arts *(expected August 2026)*
-
-**Florida State University** - BS in Information Technology *(anticipated Spring 2027 transfer)*
-
 ## 📜 Certifications
 
 **Earned**
