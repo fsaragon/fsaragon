@@ -2,8 +2,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francine-stacey-aragon)
 
-I am completing my Associate of Arts degree at Tallahassee State College in August 2026 and plan to transfer to Florida State University to pursue a BS in Information Technology.
-
 I build hands-on IT skills through home lab projects and industry certifications as I prepare for a career in IT and cybersecurity.
 
 ## 📜 Certifications
