@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francine-stacey-aragon)
 
-I build hands-on IT skills through home lab projects and industry certifications as I prepare for a career in IT and cybersecurity.
+I build hands-on skills through home lab projects as I prepare for a career in IT and cybersecurity.
 
 ## 📜 Certifications
 
